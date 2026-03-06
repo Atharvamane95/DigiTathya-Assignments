@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Acviss",
+    "url": "https://www.acviss.com",
+    "why_competitor": "Acviss provides a brand protection and product authentication platform using secure QR codes, serialization, and supply chain traceability, which overlaps with DigiTathya's focus on verifying product authenticity and tracking goods across the supply chain."
+  },
+  {
+    "name": "VCQRU",
+    "url": "https://www.vcqru.com",
+    "why_competitor": "VCQRU offers QR-based product authentication and anti-counterfeit solutions that allow consumers to verify products and enable brands to monitor product distribution, similar to DigiTathya's QR verification and traceability system."
+  },
+  {
+    "name": "NeuroTags",
+    "url": "https://www.neurotags.com",
+    "why_competitor": "NeuroTags provides AI-powered authentication and consumer engagement technology that helps detect counterfeit products and gather analytics from product scans, competing with DigiTathya's product verification and analytics capabilities."
+  },
+  {
+    "name": "Scantrust",
+    "url": "https://www.scantrust.com",
+    "why_competitor": "Scantrust offers secure QR code authentication and supply chain transparency solutions that allow brands and consumers to verify product authenticity, similar to DigiTathya's QR-based authentication platform."
+  },
+  {
+    "name": "Authentix",
+    "url": "https://www.authentix.com",
+    "why_competitor": "Authentix develops advanced anti-counterfeiting technologies and authentication solutions used by global brands to prevent product fraud and protect supply chains, aligning with DigiTathya's goal of combating counterfeit products."
+  }
+]
