@@ -14,10 +14,9 @@ Automated competitor discovery + analysis system using Python and Groq API.
 
 pip install -r requirements.txt
 
-
-
 # how to run
  create a Groq API
   terminal Cmd
   -python main.py
   - type report.md
+
